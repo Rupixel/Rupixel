@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Ghosal</h1>
 <h3 align="center">🎓 I'm passionate about exploring the vast realms of technology and coding. </h3>
 
-<img align="right" alt="coding" width="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+<img align="right" alt="coding" width="265" height="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupixel&label=Profile%20views&color=0e75b6&style=flat" alt="rupixel" /> </p>
 
