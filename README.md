@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupixel&label=Profile%20views&color=0e75b6&style=flat" alt="rupixel" /> </p>
 
-- 👨‍💻 I’m currently learning **frameworks and courses related to web devlopment.**
+- 👨‍💻 I’m currently learning **frameworks and courses related to web development.**
 
 - 📫 How to reach me **ghosalshreya2002@gmail.com**
 
