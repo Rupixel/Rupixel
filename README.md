@@ -1,4 +1,4 @@
-<img align="centre" alt="banner" width= "1500" height="250" src="https://github.com/Rupixel/Shreya-Ghosal/blob/main/PICTURE.png">
+<img align="centre" alt="banner" width= "1500" height="230" src="https://github.com/Rupixel/Shreya-Ghosal/blob/main/PICTURE.png">
 <h1 align="center">Hi 👋, I'm Shreya Ghosal</h1>
 <h3 align="center">🎓 I'm passionate about exploring the vast realms of technology and coding. </h3>
 
