@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning **frameworks and courses related to web development.**
 
-- 📫 How to reach me **ghosalshreya2002@gmail.com**
+- 📫 How to reach me **sghosal224@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
